@@ -1,0 +1,12 @@
+.loading{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  .container{
+    float:left;
+  }
+
+  .div{
+    background-color: rgb(252, 81, 29);
+  }
